@@ -1,0 +1,5 @@
+body{
+    background: linear-gradient(to left, #11e209, #f5e504, #f86604, #f00707) !important; 
+    animation: gradient 20s ease infinite;
+}
+
